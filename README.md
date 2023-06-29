@@ -18,7 +18,7 @@ vagrant plugin install vagrant vb-guest --<plugin_version>
 ```    
 
 ## Comece por aqui ;)
-* O lab proposto abaixo sobe um Apache, nada mais nada menos que um servidor web mais popular no mundo que garante um ambiente robusto e seguro para hospedar sites e aplicações web.
+O lab proposto abaixo sobe um Apache, nada mais nada menos que um servidor web mais popular no mundo que garante um ambiente robusto e seguro para hospedar sites e aplicações web.
 Ele atua como o intermediário entre o cliente (navegador da internet) e o servidor (onde o aplicativo está hospedado).
 Mais informações você encontra em [Apache Foundation](https://www.apache.org/).
 
