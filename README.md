@@ -1,7 +1,7 @@
 # vagrant
 O Vagrant é uma ferramenta de código aberto que permite criar e gerenciar ambientes de desenvolvimento virtualizados de forma fácil e automatizada. Ele fornece uma camada de abstração sobre diferentes tecnologias de virtualização, como VirtualBox, VMware e Hyper-V, permitindo que desenvolvedores criem e compartilhem ambientes de desenvolvimento consistentes e reproduzíveis.
 
-### Pré-Requisitos
+## Pré-Requisitos
 * O que você precisa para executar o Vagrant:
   - Baixe um Hypervisor a seu gosto para que possa executá-lo numa máquina virtual (no caso estarei utilizando [Virtual Box](https://www.virtualbox.org/)).
     Ele será responsável por criar e gerenciar suas máquinas virtuais;
